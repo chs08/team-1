@@ -73,7 +73,7 @@ p > .img {
     border: 10px solid #00f;
     z-index: 500;
 }
-.arrow_ground{
+.arrow{
     height: 100vh;
     width: 10px;
     margin-left: 49.7vw;
